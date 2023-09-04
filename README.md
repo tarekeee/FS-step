@@ -17,3 +17,4 @@ download this repo and try inressing or decressing the precision to see the resu
 make
 ./output <precision>
 ```
+having SFML installed is necessary
