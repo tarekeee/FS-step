@@ -8,6 +8,7 @@ as the value of n gets bigger and bigger the sum converges to the step function
 to draw the the step function (or any periodic function there is) we can use the fourier series to get a good enough approximation , then by represnting each sin wave by a line rotating at the frequency given we get the desired function 
 
 ![step function at precision 4](Fs-4.gif)
+
 this is the result using 4 sin waves
 if we increse the number of waves to say 1000 we get a very good approximation 
 ![step function at precision 1000](Fourier-series.gif)
