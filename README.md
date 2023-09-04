@@ -2,7 +2,7 @@
 a fourier series is a way to represent any periodic function in term of sin wavrs 
 # Step Function
 the step function is a fundemental part in computer science , it just oscillates between two values periodcally , its fourier series is :
-$ f(x) = \frac{4}{\pi}\sum^{n}_{i=0}\frac{sin(nx)}{n} $
+```math f(x) = \frac{4}{\pi}\sum^{n}_{i=0}\frac{sin(nx)}{n} ```
 as the value of n gets bigger and bigger the sum converges to the step function 
 ## Drawing the step function 
 to draw the the step function (or any periodic function there is) we can use the fourier series to get a good enough approximation , then by represnting each sin wave by a line rotating at the frequency given we get the desired function 
