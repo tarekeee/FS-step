@@ -1,7 +1,7 @@
 # Fourier Series 
-a fourier series is a way to represent any periodic function in term of sin wavrs 
+a fourier series is a way to represent any periodic function in term of sin waves 
 # Step Function
-the step function is a fundemental part in computer science , it just oscillates between two values periodcally , its fourier series is :
+the step function is a fundemental part of computer science , it just oscillates between two values periodcally , its fourier series is :
 ```math 
 f(x) = \frac{4}{\pi}\sum^{n}_{i=0}\frac{sin(nx)}{n}
 ```
